@@ -1,13 +1,17 @@
-QuickReport
-Descrição do Projeto:
+Aplicativo de Relatórios para Promotores da Samsung
 
-O QuickReport é um aplicativo desenvolvido para ajudar promotores de vendas, como Ronaldo Daniel e Danilo Nascimento, a gerenciar e gerar relatórios de forma mais eficiente. Percebendo a necessidade de facilitar a rotina de trabalho, decidimos criar uma solução prática que permita a geração de modelos de relatórios de diversos tipos, sem se concentrar na parte de vendas.
+Bem-vindo ao nosso projeto de aplicativo que visa simplificar a geração de relatórios para promotores de vendas da Samsung! 🎉
 
-O foco do projeto é simplificar a coleta e apresentação de informações gerais sobre o desempenho das lojas, permitindo que os promotores selecionem o tipo de relatório desejado e gerem um documento personalizado com as informações pertinentes a cada um.
+Sobre o Projeto
+Nós, Ronaldo Daniel e Danilo Nascimento, somos promotores de vendas e percebemos uma oportunidade de ajudar nossa equipe. Para isso, decidimos contribuir com a construção deste app, que tem como objetivo facilitar o registro e a apresentação das informações essenciais do dia a dia nas lojas. Ao utilizar este app, nossos colegas poderão estar criando relatórios personalizados de maneira rápida e eficiente, permitindo que se concentrem no que realmente importa: atendendo aos clientes e otimizando suas rotinas!
 
-Objetivos do Projeto:
+Funcionalidades
+Interface Intuitiva: A tela inicial apresenta um campo para os dados do usuário que fez login, seguida de uma seleção fácil para diferentes tipos de relatórios.
+Geração de Relatórios: Após selecionar o tipo de relatório desejado, o usuário é levado a uma nova tela com um modelo pré-configurado, pronto para ser preenchido com as informações específicas de cada promotor e loja.
 
-Facilitar a geração de relatórios padrões exigidos pela empresa.
-Proporcionar uma interface amigável e intuitiva para os usuários.
-Aumentar a eficiência no processo de coleta de dados e elaboração de relatórios.
-Estamos continuamente trabalhando para aprimorar este aplicativo, sempre com o objetivo de tornar o trabalho dos promotores mais prático e produtivo.
+Tecnologias Usadas
+Kotlin: Estamos utilizando Kotlin para garantir que nosso código seja seguro, conciso e fácil de ler.
+Jetpack Compose: A biblioteca de UI moderna do Android, que nos permite criar interfaces dinâmicas e reativas de forma simplificada.
+
+Contribuições
+Contribuições são sempre bem-vindas! Se você tem ideias, sugestões ou deseja ajudar a melhorar o projeto, fique à vontade para abrir uma issue ou fazer um pull request.
